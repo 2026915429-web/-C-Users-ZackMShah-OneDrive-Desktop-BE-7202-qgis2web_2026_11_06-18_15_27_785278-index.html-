@@ -1,0 +1,1 @@
+var json_Weightedmeancentre_1 = {"type":"FeatureCollection","name":"Weightedmeancentre_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","MEAN_X":529414.75674999994,"MEAN_Y":181031.8934},"geometry":{"type":"Point","coordinates":[-0.136402950349322,51.513398324117631]}}]}
